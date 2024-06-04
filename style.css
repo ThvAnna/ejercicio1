@@ -6,23 +6,18 @@ body{
     overflow-x: hidden;
 }
 img{
-    width: 80vw;
-    height: 100vh;
-    border:none;
+    width: 100vw;
+    height: 130vh; /* Ajusta esto según tus necesidades */
+    margin: 0;
+    padding: 0;
+    position: relative; /* Asegura que la imagen está pegada al borde superior */
+    top: 0;
+    left: 0;
 }
 
-
-.contenedor{
-    position: relative;
-    display: inline-block;
-    text-align: center;
-}
- 
-
-.titulo{
+h1{
     color: white;
-    position:fixed;
-    top: 50%;
-    left: 3%;
+    text-align: center;
     
 }
+ 
