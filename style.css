@@ -1,0 +1,23 @@
+
+body{
+    background-color: rgb(0, 0, 0);
+}
+img{
+    size: 100px;
+}
+
+
+.contenedor{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+ 
+
+.titulo{
+    color: white;
+    position:fixed;
+    top: 50%;
+    left: 3%;
+    
+}
